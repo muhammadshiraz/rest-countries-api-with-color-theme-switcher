@@ -10,7 +10,7 @@
 - Toggle the color scheme between light and dark mode
 
 ## Result
-![alt text](result/result.png)
+![alt text](result/result.jpg)
 
 ## Project setup
 ```
