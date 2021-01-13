@@ -9,6 +9,9 @@
 - Click on a country to see more detailed information on a separate page
 - Toggle the color scheme between light and dark mode
 
+## Result
+![alt text](result/result.png)
+
 ## Project setup
 ```
 npm install
